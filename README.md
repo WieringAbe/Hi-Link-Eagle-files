@@ -1,4 +1,4 @@
-# Hi-Link-hlk-5M05
+# Hi-Link Eagle library
 
 Eagle library containing:
 
